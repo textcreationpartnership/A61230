@@ -1,0 +1,143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the representatives of the people and nation of England assembled at Westminster at their session begun Octob. 20, 1696 : grace, wisdom, and understanding be communicated forth unto and multiplied amongst ye.</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61230</idno>
+            <idno type="STC">Wing S5148</idno>
+            <idno type="STC">ESTC R23658</idno>
+            <idno type="EEBO-CITATION">07869751</idno>
+            <idno type="OCLC">ocm 07869751</idno>
+            <idno type="VID">40205</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40205)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1213:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the representatives of the people and nation of England assembled at Westminster at their session begun Octob. 20, 1696 : grace, wisdom, and understanding be communicated forth unto and multiplied amongst ye.</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Richard Stafford.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:40205:1" rendition="simple:additions"/>
+            <head>To the <hi>Repreſentatives</hi> of the <hi>People</hi> and <hi>Nation</hi> of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> Aſſembled at <hi>Weſtminſter</hi> at their Seſſion, be<g ref="char:EOLhyphen"/>gun <hi>Octob. 20. 1696.</hi>
+            </head>
+            <head type="sub">Grace, Wiſdom, and <g ref="char:V">Ʋ</g>nderſtanding be Communicated forth unto, and Multi<g ref="char:EOLhyphen"/>plied amongſt Ye.</head>
+            <p>THE Patience and Long-ſuffering of God doth ſeem to wait, by giving ye opportunity after opportunity, thus to Aſſemble your ſelves at this Return of each Year of your Rebellion, to know what is in your Hearts, to prove ye (not only once or twice, but time after time, that in caſe ye ſhould ſtill Refuſe and Rebel, your Sin may become more exceeding ſinful, and your Condemnation may be more juſt and deſerved.) Whether ye will at length do according to his Command<g ref="char:EOLhyphen"/>ments or no. And particularly that his Commandment in <hi>Iſa.</hi> 1.17. <hi>Re<g ref="char:EOLhyphen"/>lieve the Oppreſſed.</hi> In the Margin of the <hi>Bible</hi> it is <hi>Righten</hi> (which ſignifies to ſet right again) So that herein ye ſhould obey the Law and Command<g ref="char:EOLhyphen"/>ment of God, as to <hi>Relieve, Righten,</hi> and ſet right again your Oppreſſed K. <hi>James.</hi> This ſame Commandment is general, indefinite, and compre<g ref="char:EOLhyphen"/>henſive: So that it extends to all Perſons, of all Generations and Coun<g ref="char:EOLhyphen"/>tries, from the Higheſt to the loweſt, that have been or ſhall be oppreſſed. Again, there is another Commandment of God, <hi>To execute true Judgment between Man and Man. Ezek.</hi> 18.8. and ſo throughly <hi>execute judgment</hi> be<g ref="char:EOLhyphen"/>tween a Man and his Neighbour. <hi>Jer.</hi> 7.5. If ye would once obey this, then ye ſhould adjuſt the Matter between Him aforenamed and the P. of <hi>Orange,</hi> ac<g ref="char:EOLhyphen"/>cording to the Inſtructions of <hi>Wiſdom, Juſtice, Judgment,</hi> and <hi>Equity.</hi> Prov. 1.3. If Ye would do this in a Parliamentary and Peaceable way, by bring<g ref="char:EOLhyphen"/>ing the Cauſe to a Re-hearing; and then by making a righteous and impar<g ref="char:EOLhyphen"/>tial Deciſion and Determination of this Great Caſe, laying aſide in Ye ſeve<g ref="char:EOLhyphen"/>rally all Malice, and Guile and Hypocriſies, and all Evil-ſpeakings and Re<g ref="char:EOLhyphen"/>venge; <hi>(The wrath of man worketh not the righteouſneſs of God, vengeance be<g ref="char:EOLhyphen"/>longeth unto me, I will recompence, ſaith the Lord)</hi> and all Covetouſneſs, and Fear, and indirect ends and Purpoſes of your own; This doing, would forth<g ref="char:EOLhyphen"/>with ſtaunch, and put a ſtop to that Iſſue of Blood which hath been running on the Sea and Land theſe ſeven years. And then King <hi>James</hi> would not be tempted, nor yet led aſide (for ſometimes a good and righteous Cauſe may be endeavoured to be carried on by evil and wrong Means, through the ignorance of wicked Inſtruments; hereby Satan the inviſible Enemy of Mankind acting at the bottom of all this with yet greater Subtlety and De<g ref="char:EOLhyphen"/>ceiveableneſs, to render the ſame more perplex, intricate, and hard to be
+<pb n="2" facs="tcp:40205:2"/>underſtood.) To uſe ſuch fooliſh, violent, and ſinful Methods, to ſeek to Re-inſtate Himſelf into theſe Kingdoms. Which are not agreeable unto the Law of God, who is the God of Peace, and not of Confuſion; nor yet conſiſtent with the Goſpel, which doth not allow to hurt, nor to <hi>deſtroy. Iſa.</hi> 11.19. But corrupt Nature is prone and liable to make uſe of ſuch. Fot conſider the thing ſimply and abſtractedly: If any of Ye were Diſpoſ<g ref="char:EOLhyphen"/>ſeſſed of your Right, Freehold and Property, by a forcible Entry made there<g ref="char:EOLhyphen"/>upon (in which caſe the Law doth preſerve the Right all the mean while unto the True Owner and Proprietor) and Ye could not poſſibly recover it again any other way; for either there was not Law, or it was corrupted, or the Judges would not admit that particular Caſe to an Hearing, Would Ye not then try to get a like or greater Number of Armed Men, and endeavour to get your Eſtates again by Force, as you were Diſpoſſeſſed by Force. A man in his corrupt Nature (as <hi>King James</hi> doth ſeem to be therein) would do thus. But a true regenerate and ſanctified Chriſtian would not, but rather <hi>take wrong, and ſuffer himſelf to be defrauded,</hi> and ſit down contented with the Loſs, rather than uſe Force and Violence (which is ſin and evil) to regain it. Yet here He may Aſſert his Right, in <hi>words</hi> only.</p>
+            <p>Every one can imagine that it would be a ſad World if there was no Law, nor Legal Deciſion of things; for then all Property would be unhinged, and a Gap would be preſently opened, to the Hurt and Murder of one another, and to all ſort of Theft, Robbery, Violence and Evil. So by the like pro<g ref="char:EOLhyphen"/>portion and truth of things, it may be Conceived and ſurely Reaſoned, <hi>He that is unjuſt in the Leaſt, is unjuſt-alſo in much,</hi> Luk. 16.10. What is unjuſt and unreaſonable in a leſs Matter, is unjuſt and unreaſonable alſo in a Greater Matter. And as we can readily conceive what would be the Inconveniences, Miſchiefs and Evils, if there was no Juſtice nor Law in private Caſes: From hence alſo we may know the very Reaſon why our Land is moved and di<g ref="char:EOLhyphen"/>vided, and becauſe of the Sores thereof it ſhaketh. <hi>By Swearing, and Lying, and Killing, and Stealing, and Committing Adultery, they break out, and Blood toucheth blood.</hi> Hoſ. 4.2. And why there is no Peace in our Borders; Be<g ref="char:EOLhyphen"/>cauſe in reference to the King, who of Right was, and ought ſtill to be the Governour thereof, <hi>Judgment is turned away backward, and Juſtice ſtandeth a<g ref="char:EOLhyphen"/>far off; for Truth is fallen in the ſtreet, and Equity cannot enter,</hi> Iſa. 59.14. For what true Reaſon can be aſſign'd why His Cauſe and Caſe ſhould not be brought to a Rehearing and Impartial Trial, as it is allowed to every Com<g ref="char:EOLhyphen"/>mon perſon, when all Things are not fully Alledged on both ſides. That <hi>Act</hi> of the <hi>Convention</hi> was in no wiſe a full and impartial Trial; For, <hi>Qui ſtatuit aliquid, parte in audita alterâ, aequum licet ſtatuerit, haùd aequus fuerit; a fortio<g ref="char:EOLhyphen"/>ri, ſi ſtatuerit iniquum.</hi> And even now all their ſubſequent <hi>Acts</hi> can no more make wrong right, than they can make crooked ſtraight; for they cannot alter the nature of things. Indeed they may bind and transfer one's Pro<g ref="char:EOLhyphen"/>perty, where is a Conſent of all Parties. But yet again, they may (for they are not infallible) <hi>Decree unrighteous Decrees</hi> (againſt which a wo is pro<g ref="char:EOLhyphen"/>nounced in <hi>Iſa.</hi> 10.1.) As ſo they did in the inſtance here mentioned, in taking away the Right of their King, contrary to their former Oaths of Allegiance, and giving it unto a <hi>Stranger.</hi>
+            </p>
+            <pb n="3" facs="tcp:40205:2"/>
+            <p>Your ſelves the Repreſentatives of the People of this Nation, and Ye being their Superintendents, and an Higher Authority than they, would not approve it, but rather Ye would be apt to call them to account, if either the Judges would not judge Cauſes at all, or if they were corrupt in their Judgments; for then they are primarily and originally Occaſional of all that Evil and Miſchief, which is done and committed when people go about to Redreſs themſelves; inaſmuch as they would not have done ſo, if they could have had Remedy at Law. Now with what Judgment Ye judge, Ye ſhall be judged. Here ye are to remember and bring it to mind, O ye Tranſgreſſors, That there is one Higher than ye, even the inviſible God. <hi>And the Lord ſaw it, and it diſpleaſed him that there was no Judgment.</hi> Iſa. 59.15. Even ſo it may be truly ſuppoſed, as thus ye will find it, when ye come to appear before his Judgment-ſeat <hi>(In the latter days, ye ſhall conſider it perfectly)</hi> but then it will be too late, becauſe the time of your Trial will be over.) <hi>God is diſpleaſed</hi> in that ye will not <hi>execute true Judgment between man and man</hi> in the Inſtan<g ref="char:EOLhyphen"/>ces beforementioned. For Your ſelves aſſent, that true Judgment ought to be executed between Man and Man, as to thoſe of low Degree; ſo God ex<g ref="char:EOLhyphen"/>pects from ye, and will call ye to an account, That ye ſhould execute true Judgment between Man and Man, as to thoſe of the higheſt Degree. As the Scripture ſaith, <hi>One ſinner deſtroyeth much good.</hi> Ecleſ. 9.18. So it is now ſeen that the unlawful and unreaſonable Ambition of one Man, doth hinder the Peace of <hi>Europe.</hi>
+            </p>
+            <p>
+               <hi>When the Lord maketh Inquiſition for blood.</hi> Pſal. 9-12. He who is All-knowing will impute all the Murder, Bloodſhed, Outrages, Cruelty, Deſo<g ref="char:EOLhyphen"/>lation, Devaſtation, and all the manifold Evils and Miſchiefs of this long preſent War unto them who were the firſt Beginners; and true Occaſions thereof: for it might have been all prevented at firſt, and may be ſo ſtill, if ye <hi>would execute true judgment between man and man:</hi> For if ye would admit K: <hi>James</hi> peaceably to the Inheritance of his Father's, Violence would be no more heard in our Land, as proceeding from Him, nor yet any fear of Waſt<g ref="char:EOLhyphen"/>ing and Deſtruction in our Borders. But a way would be again made for this Nation to be at Unity, Peace and Concord with all the Countries round about. It appears evidently and clearly from the written Word of God (which beſt diſcovers the Nature of Things; for who can better know them, than that ſame Word that made and eſtabliſhed them) that the way to peace is by Righteouſneſs: <hi>And the work of righteouſneſs ſhall be peace, and the effect of righteouſneſs quietneſs, and aſſurance for ever:</hi> Iſa. 32:17. which is true all one to outward as to inward Peace. And from what is written, <hi>Offer the ſa<g ref="char:EOLhyphen"/>crifice of righteouſneſs, and put your truſt in the Lord,</hi> Pſal. 4.5. So that Ye may boldly ſay, and upon ſure grounds put the ſame in practiſe, We will do Righteous things, and Truſt our God with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Event of all. <hi>The Lord is our help, we will not fear what man ſhall do unto us.</hi> Now the Lord is none of their help, who will commit ſin or evil (as ſo it is to refuſe to do according to his Law) to help or ſave themſelves.</p>
+            <p>By the words of Truth, Meekneſs, and Righteouſneſs, this Nation might be yet Healed. But when they are laid before the Chief Men and Rulers there<g ref="char:EOLhyphen"/>of,
+<pb n="4" facs="tcp:40205:3"/>an unſeen Enemy doth ſubtilly work in their Minds, either to deſpiſe and not receive the knowledge of them, or to <hi>Refuſe</hi> and <hi>Rebel,</hi> and to do yet more earneſtly and violently to the contrary. <hi>But there was none like unto Ahab, which did ſell himſelf to work wickedneſs in the ſight of the Lord. whom Jeſa<g ref="char:EOLhyphen"/>bel his Wife ſtirred up.</hi> 1 Kings 21.4, 5. In the Margin there it is, incited. So though there is a great deal of wickedneſs in the heart of Man, by rea<g ref="char:EOLhyphen"/>ſon of original ſin and in-bred corruption (for Fleſh and Blood will imagine and practiſe evil; yet this corrupt Nature would never proceed and tend ſo far, eſpecially in immediate Rebellion againſt and provocation of God (for what is ſhewed forth againſt his Word, is againſt God himſelf, as will ap<g ref="char:EOLhyphen"/>pear at his future Judgment, altho' this may be beſides the mind and inten<g ref="char:EOLhyphen"/>tion of the Creature in the meanwhile) unleſs this infernal <hi>Jeſabel,</hi> whoſe right Name is <hi>Beelzebub,</hi> did initiate and ſtir them up. But this is the fault of the Reaſonable Creatures at preſent, and will be their Puniſhment hereafter, that when they do or may know this, yet they willingly give way to the Devil herein.</p>
+            <p>Such as obey the Truth of God ſhall be ſaved: But they who continue in an hard and impenitent Heart, do treaſure up to themſelves Wrath againſt the day of wrath; <hi>Becauſe they received not the love of the Truth that they might be ſaved: And for this Cauſe God ſhall ſend them ſtrong deluſion, that they ſhould believe a Lye, that they all might be damn'd, who believe not the Truth, but had pleaſure in <g ref="char:V">Ʋ</g>nrighteouſneſs.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <head>To all Rulers, Magiſtrates, and Officers of Juſtice; and to all other People, whom this following may in any wiſe Concern.</head>
+            <p>WHereas I do only Reprove Trangreſſion, and Exhort people to come a<g ref="char:EOLhyphen"/>gain into the way of God's Commandments. I do ſet his Laws before Mankind, and I do Publiſh his Eetrnal Truth. I do nothing more beyond or beſides this. Which again I do not out of mine own head, but only from the Statute-Book of the Lord God. If Ye think that I deſerve to be Im<g ref="char:EOLhyphen"/>priſoned for this Doing, and ye will be inſtrumental to Confine me, God will judge that ye and the other People do deſerve Damnation, for not o<g ref="char:EOLhyphen"/>beying thoſe his Laws and Commandments, which from out of the ſame Book of Scriptures I have ſet before ye and them. And when your Breath is out of your Noſtrils, and your Souls are departed from your Bodies, ye will receive yet greater Condemnation, and be beaten with more ſtripes for your thus doing unto me his Creature, who was ſent and employed by him in the Miniſtration of his <hi>Word</hi> and <hi>Truth.</hi> So Warneth and Witneſſeth.</p>
+            <closer>
+               <signed>RICHARD STAFFORD.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
